@@ -11,7 +11,7 @@ export const DATA = {
     "I am Software Engineer. I love building things and helping people. Very active on Twitter.",
   summary:
     "At the end of my studies in 2024, I embarked on a journey as a Full Stack Software Engineer, specializing in designing and developing responsive web applications. During my time in college, I completed two internships, one at Squared Labs and another as a freelancer for a fashion designer.These experiences allowed me to design and develop responsive web applications using React.js, Tailwind CSS, and TypeScript. My academic journey at Medi-Caps University, where I earned a [B.Tech in Computer Science with a GPA of 8.6](/#education), ",
-  avatarUrl: "/me.png",
+  avatarUrl: "/ayush.jpeg",
   skills: [
     "React",
     // "Next.js",
@@ -84,7 +84,7 @@ export const DATA = {
       start: "May 2021",
       end: "Oct 2022",
       description:
-        "Implemented the Bitcoin discreet log contract (DLC) protocol specifications as an open source Typescript SDK. Dockerized all microservices and setup production kubernetes cluster. Architected a data lake using AWS S3 and Athena for historical backtesting of bitcoin trading strategies. Built a mobile app using react native and typescript.",
+        "Designed and developed a responsive, visually consistent landing page using React.js and Tailwind CSS, optimizing components for performance and reusability, and ensuring a smooth, error-free launch through thorough debugging and collaboration with the design team.",
     },
     {
       company: "Krati",
@@ -96,7 +96,7 @@ export const DATA = {
       start: "January 2021",
       end: "April 2021",
       description:
-        "Implemented a custom Kubernetes controller in Go to automate the deployment of MySQL and ProxySQL custom resources in order to enable 2,000+ internal developers to instantly deploy their app databases to production. Wrote several scripts in Go to automate MySQL database failovers while maintaining master-slave replication topologies and keeping Zookeeper nodes consistent with changes.",
+        "As a freelancer from January 2024 to July 2024, I designed and developed a fashion designer’s website using Next.js and Tailwind CSS. The site featured a responsive, visually appealing design, showcased the designer's portfolio through interactive layouts, ensured optimal performance and SEO-friendly structure, and provided a user-friendly interface for seamless navigation and client interaction.",
     },
     // {
     //   company: "Nvidia",
@@ -153,16 +153,16 @@ export const DATA = {
       href: "https://www.shantinilaya.in/",
       degree: "12th",
       logoUrl: "/buildspace.jpg",
-      start: "2023",
-      end: "2024",
+      start: "2018",
+      end: "2019",
     },
     {
       school: "Medi-Caps University",
       href: "https://www.medicaps.ac.in/",
       degree: "Bachelor's of Technology in Computer Science (B-Tech)",
       logoUrl: "/waterloo.png",
-      start: "2016",
-      end: "2021",
+      start: "2020",
+      end: "2024",
     },
     // {
     //   school: "Wilfrid Laurier University",
@@ -188,7 +188,7 @@ export const DATA = {
       dates: "Jan 2023",
       active: true,
       description:
-        "With the release of the [OpenAI GPT Store](https://openai.com/blog/introducing-the-gpt-store), I decided to build a SaaS which allows users to collect email addresses from their GPT users. This is a great way to build an audience and monetize your GPT API usage.",
+      "Developed Maskcraft, a full-stack web application using React.js (frontend) and Express.js (backend) with TypeScript. Implemented secure user authentication, efficient data fetching with Axios, and scalable data storage with MongoDB. Added Add to Cart and user profile management features for enhanced functionality.",
       technologies: [
         "React.js",
         "Typescript",
@@ -216,7 +216,7 @@ export const DATA = {
       dates: "June 2023 - Present",
       active: true,
       description:
-        "Designed, developed and sold animated UI components for developers.",
+        "In 2023, I developed a Travel Website UI Clone using React.js and Tailwind CSS, focusing on a modern look and feel. I implemented interactive components with React Slick for smooth carousels and used react-multi-carousel for dynamic, responsive multi-item displays. The project emphasized creating an engaging, user-friendly interface with a responsive design for optimal viewing on various devices.",
       technologies: [
         "React.js",
         "Javascript",
@@ -248,7 +248,7 @@ export const DATA = {
       dates: "Jan 2024",
       active: true,
       description:
-        "Developed an open-source logging and analytics platform for OpenAI: Log your ChatGPT API requests, analyze costs, and improve your prompts.",
+        "From January to July 2024, as a freelancer, I designed and developed a fashion designer's website using Next.js and Tailwind CSS. The site featured a visually appealing, responsive design, showcased the designer's portfolio through interactive layouts, ensured optimal performance and SEO-friendly structure, and provided a user-friendly interface for easy navigation and client interaction.",
       technologies: [
         "Next.js",
         "Typescript",
@@ -281,7 +281,7 @@ export const DATA = {
       dates: "June 2024 ",
       active: true,
       description:
-        "Developed an AI Customer Support Chatbot which automatically responds to customer support tickets using the latest GPT models.",
+        "Designed and developed a seamless landing page using React.js and Tailwind CSS for a modern, adaptive design. Collaborated with the design team to ensure visual consistency and UI best practices. Optimized components for performance and reusability, and conducted thorough debugging for a smooth, error-free launch.",
       technologies: [
         // "Next.js",
         "Javascript",
